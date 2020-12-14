@@ -4,6 +4,7 @@
 
 #include "Parser.h"
 
+using namespace std;
 
 void Parser::makevar(){
     lastv->name=token;

@@ -5,6 +5,8 @@
 #ifndef UNKNOWNPP_SCANNER_H
 #define UNKNOWNPP_SCANNER_H
 
+#include <iostream>
+#include "global_property.h"
 
 class Scanner {
 

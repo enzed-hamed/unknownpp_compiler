@@ -4,6 +4,7 @@
 
 #include "Scanner.h"
 
+using namespace std;
 
 bool Scanner::iswhite(char c)
 {

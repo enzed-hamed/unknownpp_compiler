@@ -5,6 +5,8 @@
 #ifndef UNKNOWNPP_PARSER_H
 #define UNKNOWNPP_PARSER_H
 
+#include <iostream>
+#include "global_property.h"
 
 class Parser {
 public:
